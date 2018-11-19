@@ -2,7 +2,7 @@
 
 🌱 🌱 🌱
 
-→ o Game Of Life możesz poczytać tutaj: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+→ o Game Of Life : https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
 
 Podstawowe założenia:
